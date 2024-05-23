@@ -21,6 +21,7 @@ Estou aberto a ideias para desenvolver este programa e torná-lo mais útil. Sin
 - Baixa recursos estáticos
 - Gera relatórios em HTML e PDF
 
+  
 ## Como Usar
 
 1. Clone este repositório:
@@ -28,15 +29,27 @@ Estou aberto a ideias para desenvolver este programa e torná-lo mais útil. Sin
     git clone https://github.com/Mferreirasilva47/Cr4wler.git
     ```
 
-2. Instale as dependências:
+2. Navegue até o diretório do projeto:
+    ```sh
+    cd web_scanner
+    ```
+
+3. Crie um ambiente virtual (opcional, mas recomendado):
+    ```sh
+    python -m venv venv
+    source venv/bin/activate   # No Windows use `venv\Scripts\activate`
+    ```
+
+4. Instale as dependências:
     ```sh
     pip install -r requirements.txt
     ```
 
-3. Execute o programa:
+5. Execute o programa:
     ```sh
-    python main.py
+    python web_scanner.py
     ```
+
 
 ## Licença
 
