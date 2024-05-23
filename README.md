@@ -26,7 +26,7 @@ Estou aberto a ideias para desenvolver este programa e torná-lo mais útil. Sin
 
 1. Clone este repositório:
     ```sh
-    [git clone https://github.com/Mferreirasilva47/web_scanner.git
+    git clone https://github.com/Mferreirasilva47/web_scanner.git
     ```
 
 2. Navegue até o diretório do projeto:
