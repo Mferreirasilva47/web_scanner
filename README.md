@@ -19,7 +19,7 @@ Estou aberto a ideias para desenvolver este programa e torná-lo mais útil. Sin
 - Analisa elementos SEO
 - Encontra links
 - Baixa recursos estáticos
-- Gera relatórios em HTML e PDF
+- Gera relatórios
 
   
 ## Como Usar
